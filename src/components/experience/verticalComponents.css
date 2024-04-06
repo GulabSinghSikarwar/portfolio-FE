@@ -1,0 +1,29 @@
+.timeline_content {
+    font-size: 12px;
+    color: black;
+    font-weight: 300;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+
+    align-items: center;
+    padding-top: 5px;
+    margin-bottom: 0px;
+
+}
+.motion-div-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 25px;
+    color: grey;
+    text-transform: uppercase;
+  }
+  .motion-div-text {
+    font-weight: 300;
+    letter-spacing: 5px;
+    color: green;
+  }
+  
+  

@@ -1,0 +1,11 @@
+.levelIcon{
+    object-fit: contain;
+    width: 50%;
+    border-radius: 15px;
+}
+h3{
+    font-size: 18px;
+    color: rgb(99, 97, 97);
+    text-transform: uppercase;
+    padding-top: 15px;
+}
