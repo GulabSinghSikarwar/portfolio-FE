@@ -12,6 +12,7 @@ import prod from '../components/resources/assets/img/prod.png'
 import slack from '../components/resources/assets/img/slack.png'
 
 export const experience = [
+    'GDSC Solution Challenge 2021',
     'Full Stack Developer  Intern( 04 | 22 -05 | 22 )',
     'Hacktober Fest 2022',
     'SDE Intern at Utrade Solutions',
